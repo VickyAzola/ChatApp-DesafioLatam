@@ -13,6 +13,9 @@
 
 Chat Mazinger es una aplicación simple de chat donde se visualizan dos perfiles de usuario obtenidos aleatoriamente mediante una API y permite el envío de mensajes entre ellos. La interfaz del chat muestra los mensajes y permite diferenciarlos según el perfil del usuario que los envía.
 
+![preview](https://github.com/user-attachments/assets/b322a9e8-43fd-4bfa-bdf4-4b3403494a15)
+
+
 ## Características
 
 - Dos perfiles de usuario generados aleatoriamente usando la API de `https://randomuser.me`.
